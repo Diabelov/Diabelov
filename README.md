@@ -1,1 +1,1 @@
-(Arcane mod)[https://github.com/Diabelov/Arcane-mod-1.20.1] - [![wakatime](https://wakatime.com/badge/github/Diabelov/Arcane-mod-1.20.1.svg?style=flat)](https://wakatime.com/badge/github/Diabelov/Arcane-mod-1.20.1)
+[Arcane Mod](https://github.com/Diabelov/Arcane-mod-1.20.1) - [![wakatime](https://wakatime.com/badge/github/Diabelov/Arcane-mod-1.20.1.svg?style=flat)](https://wakatime.com/badge/github/Diabelov/Arcane-mod-1.20.1)
